@@ -18,3 +18,6 @@ https://github.com/vim-airline/vim-airline-themes
 
 Material themes
 https://github.com/kaicataldo/material.vim
+
+Nerdtree
+https://github.com/preservim/nerdtree
